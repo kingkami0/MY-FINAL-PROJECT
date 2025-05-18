@@ -19,10 +19,12 @@ This project is a simple Spring Boot MVC application created for the Java Labs c
 
 ## 📸 Screenshots
 ### PROGRAM OPRATION
-![OPRATION Screenshot]  ![HOMEPAGE.png](HOMEPAGE.png)  
+![OPRATION Screenshot]  ![HOMEPAGE](https://github.com/user-attachments/assets/70fed36f-1512-4324-b3f6-658cb208b91f)
+
 
 ### Image Displayed
-![Image Screenshot] ![NAME.png](NAME.png)   
+![Image Screenshot] ! ![NAME](https://github.com/user-attachments/assets/181e76cd-d7b1-4327-a81c-c5e0eeb20466)
+
 
 ## 🛠 Tech Stack
 - Java 17
