@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
         model.addAttribute("name", name);
         return "greeting";
     }
-     //http://localhost:8080/greeting?name=Vistula
+     //http://localhost:8080/greeting?name=kami
     }
 
 
