@@ -15,12 +15,13 @@ This project is a simple Spring Boot MVC application created for the Java Labs c
    ```
 2. Open in IntelliJ as a Maven project.
 3. Run `DemoApplication.java`.
-4. Visit: `![image](https://github.com/user-attachments/assets/1f8417f5-ce8e-4549-9109-4f5539d6f423)
+4. Visit: http://localhost:8080/greeting?name=kami
 
 
 ## 📸 Screenshots
 ### PROGRAM OPRATION
-![OPRATION Screenshot]!  ![Screenshot 2025-05-22 185414](https://github.com/user-attachments/assets/f4623be3-4e2a-4b3a-87af-9435257ab818)
+![OPRATION Screenshot]! ![Screenshot 2025-05-22 185414](https://github.com/user-attachments/assets/f88f6b1c-16d9-40e6-a6f8-c0b0cad8075f)
+
 
 
 
